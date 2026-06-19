@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "finco-flutter",
+    "storage_bucket": "finco-flutter.appspot.com",
+    "firebase_url": "https://finco-flutter.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:ef817c729b82f1ff",
+        "android_client_info": {
+          "package_name": "com.aistudio.finco.vylrw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyFakeKeyPlaceholderHere_NoValidKey"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

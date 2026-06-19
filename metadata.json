@@ -1,0 +1,6 @@
+{
+  "name": "FinCo",
+  "description": "AI-Powered Personal Finance Copilot for Underbanked Users with offline forecasting, SMS logging, and local voice command NLU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
